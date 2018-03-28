@@ -1,31 +1,38 @@
 *{
     box-sizing: border-box;
-}
-#canyon{
+} 
+#picture1{
     float: left;
-    width: 200px
-    
-    
+    width: 350px;
+    height:200px;
+    position: relative;
 }
-#mars{
-    width: 200px;
+.picture{
+    width: 100%;
     height: 200px
 }
-.picture2{
+#picture2{
     float: right;
-    width:200px
-    
+    width:350px;
+    height:200px;
+    position: relative;
 }
-.picture1{
-    float: left;
-    width: 
-}
-.picture4{
+#picture4{
     float: right;
-    
+    width:350px;
+    height:200px; 
+    position:relative;  
 }
-.picture3{
+#picture3{
     float: left;
+    width: 350px;
+    height: 200px;
+    position: relative;
+}
+body{
+    font-size: 15pt;
+}
+    
     
 
 
