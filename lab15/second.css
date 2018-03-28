@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    color:yellow;
+}
+body{
+    background-image: url(http://www.dundjinni.com/forums/uploads/Ravenbow/49E_BrickRound70_CG_bg-a.png);
+    color: white;
+    font-size: 18pt;
+}
+nav{
+    background-color: yellow;
+    width:20%;
+    float: right;
+    color: black;
+    font-size: 16;
+    border-radius:25px
+}
+
+#paragraph1{
+ border-left: 10px solid yellow;
+ border-top-left-radius: 1.25%;
+ border-bottom-left-radius: 1.25%;
+}
+#paragraph2{
+    border-left: 10px solid yellow;
+    border-top-left-radius: 1.25%;
+    border-bottom-left-radius: 1.25%;
+   }
+ #paragraph3{
+    border-left: 10px solid yellow;
+    border-top-left-radius: 1.25%;
+    border-bottom-left-radius: 1.25%;
+   }
+ #paragraph4{
+    border-left: 10px solid yellow;
+    border-top-left-radius: 1.25%;
+    border-bottom-left-radius: 1.25%;
+   }
+ #paragraph5{
+    border-left: 10px solid yellow;
+    border-top-left-radius: 1.25%;
+    border-bottom-left-radius: 1.25%;
+   }
+ #paragraph6{
+    border-left: 10px solid yellow;
+    border-top-left-radius: 1.25%;
+    border-bottom-left-radius: 1.25%;
+   }
+#paragraph7{
+    border-left: 10px solid yellow;
+    border-top-left-radius: 1.25%;
+    border-bottom-left-radius: 1.25%;
+   }
+   #quick{
+       left:auto;
+       right:auto;
+   }
+   #fire{
+       background-image: url(http://www.pngmart.com/files/1/Fire-Flame-Transparent-Background.png
+       );
+       position: fixed:
+      
+       
+   }

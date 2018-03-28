@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+#canyon{
+    float: left;
+    width: 200px
+    
+    
+}
+#mars{
+    width: 200px;
+    height: 200px
+}
+.picture2{
+    float: right;
+    width:200px
+    
+}
+.picture1{
+    float: left;
+    width: 
+}
+.picture4{
+    float: right;
+    
+}
+.picture3{
+    float: left;
+    
+
+
+
+
